@@ -1,7 +1,0 @@
-## Index
-
-### Religous
-
-### History
- 
-### Literature
