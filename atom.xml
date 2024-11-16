@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-16T11:41:24.811Z</updated>
+  <updated>2024-11-16T14:34:40.644Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2024/11/16/%E4%BA%94%E4%B8%80%E8%88%92%E5%AE%B6%E6%B9%BE%E6%9C%9D%E5%9C%A3/"/>
     <id>http://example.com/2024/11/16/%E4%BA%94%E4%B8%80%E8%88%92%E5%AE%B6%E6%B9%BE%E6%9C%9D%E5%9C%A3/</id>
     <published>2024-11-16T11:26:10.655Z</published>
-    <updated>2024-11-16T11:41:24.811Z</updated>
+    <updated>2024-11-16T14:34:40.644Z</updated>
     
     
     <summary type="html">&lt;p&gt;今年五一假期没有没有回老家，假期前两日过得很昏，大概是因为工作上的问题，焦虑到不停刷网页，到了第三天也就是周五，稍微振作了一点，便准备实施很久以来的想法，去舒家湾天主堂看看。&lt;/p&gt;</summary>
@@ -56,8 +56,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/10/28/hello-world/"/>
-    <id>http://example.com/2024/10/28/hello-world/</id>
+    <link href="http://example.com/2024/10/28/helloworld/"/>
+    <id>http://example.com/2024/10/28/helloworld/</id>
     <published>2024-10-28T15:47:54.681Z</published>
     <updated>2024-11-01T15:48:58.483Z</updated>
     
