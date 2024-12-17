@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-16T14:34:40.644Z</updated>
+  <updated>2024-12-17T14:34:55.272Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>托尔金信件集250号节译</title>
+    <link href="http://example.com/2024/12/17/%E6%89%98%E5%B0%94%E9%87%91%E4%BF%A1%E4%BB%B6%E9%9B%86250%E5%8F%B7%E8%8A%82%E8%AF%91/"/>
+    <id>http://example.com/2024/12/17/%E6%89%98%E5%B0%94%E9%87%91%E4%BF%A1%E4%BB%B6%E9%9B%86250%E5%8F%B7%E8%8A%82%E8%AF%91/</id>
+    <published>2024-12-17T13:44:14.802Z</published>
+    <updated>2024-12-17T14:34:55.272Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;前言：这封信写于1963年11月1日，是托尔金写给自己的二儿子Micheal Tolkien的，里面涉及学术追求和信仰实践的讨论，末尾四段全为私人唠嗑就没有翻译了。我英语汉语都不好，要翻这样一篇文实在超出自身的能力，若译文有什么问题欢迎指正，注释部分如没有标识“译者注”全为原作者注。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="翻译集" scheme="http://example.com/categories/%E7%BF%BB%E8%AF%91%E9%9B%86/"/>
+    
+    
+    <category term="Tolkien" scheme="http://example.com/tags/Tolkien/"/>
+    
+  </entry>
   
   <entry>
     <title>五一舒家湾朝圣</title>
