@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-12-17T16:23:08.684Z</updated>
+  <updated>2026-11-06T12:57:14.976Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,14 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>托尔金与西班牙内战</title>
+    <link href="http://example.com/2026/11/06/tolkienandspanishcivilwar/"/>
+    <id>http://example.com/2026/11/06/tolkienandspanishcivilwar/</id>
+    <published>2026-11-06T11:17:39.463Z</published>
+    <updated>2026-11-06T12:57:14.976Z</updated>
+    
+    
+    <summary type="html">&lt;font size=3&gt;
+前言：本文为《瑁珑》2011年51期的文章 &lt;a herf=&quot;https://journals.tolkiensociety.org/mallorn/article/view/78/72&quot;&gt;https://journals.tolkiensociety.org/mallorn/article/view/78/72&lt;/a&gt;，作者为西班牙托尔金协会会员，关注托尔金与西班牙的联系，应是其单独出版作《托尔金的西班牙渊源》的中途材料，作者并非历史学、文学、政治学相关的专业学者，能将材料组织到这个程度，已是非常优秀了，文中按语（吐槽）全为译者所加，数字标号的原文注全在文末。还是惯例说明：本文所有论断仅为原作者观点，与译者无涉，这里面只有按语是译者的想法。&lt;/font&gt;</summary>
+    
+    
+    
+    <category term="翻译集" scheme="http://example.com/categories/%E7%BF%BB%E8%AF%91%E9%9B%86/"/>
+    
+    
+    <category term="Tolkien" scheme="http://example.com/tags/Tolkien/"/>
+    
+  </entry>
+  
+  <entry>
     <title>托尔金信件集250号节译</title>
-    <link href="http://example.com/2024/12/17/%E6%89%98%E5%B0%94%E9%87%91%E4%BF%A1%E4%BB%B6%E9%9B%86250%E5%8F%B7%E8%8A%82%E8%AF%91/"/>
-    <id>http://example.com/2024/12/17/%E6%89%98%E5%B0%94%E9%87%91%E4%BF%A1%E4%BB%B6%E9%9B%86250%E5%8F%B7%E8%8A%82%E8%AF%91/</id>
+    <link href="http://example.com/2024/12/17/tolkienletters250/"/>
+    <id>http://example.com/2024/12/17/tolkienletters250/</id>
     <published>2024-12-17T13:44:14.802Z</published>
-    <updated>2024-12-17T16:23:08.684Z</updated>
+    <updated>2026-11-06T12:57:32.776Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;font size=3&gt;前言：这封信写于1963年11月1日，是托尔金写给自己的二儿子Micheal Tolkien的，里面涉及学术追求和信仰实践的讨论，末尾四段全为私人唠嗑就没有翻译了。我英语汉语都不好，要翻这样一篇文实在超出自身的能力，若译文有什么问题欢迎指正，注释部分如没有标识“译者注”全为原作者注。&lt;/font&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;font size=3&gt;前言：这封信写于1963年11月1日，是托尔金写给自己的二儿子Micheal Tolkien的，里面涉及学术追求和信仰实践的讨论，末尾四段全为私人唠嗑就没有翻译了。我英语汉语都不好，要翻这样一篇文实在超出自身的能力，若译文有什么问题欢迎指正，注释部分如没有标识“译者注”全为原作者注。&lt;/p&gt;</summary>
     
     
     
@@ -40,10 +60,11 @@
     <link href="http://example.com/2024/11/16/%E4%BA%94%E4%B8%80%E8%88%92%E5%AE%B6%E6%B9%BE%E6%9C%9D%E5%9C%A3/"/>
     <id>http://example.com/2024/11/16/%E4%BA%94%E4%B8%80%E8%88%92%E5%AE%B6%E6%B9%BE%E6%9C%9D%E5%9C%A3/</id>
     <published>2024-11-16T11:26:10.655Z</published>
-    <updated>2024-11-16T14:34:40.644Z</updated>
+    <updated>2026-11-06T13:00:55.624Z</updated>
     
     
-    <summary type="html">&lt;p&gt;今年五一假期没有没有回老家，假期前两日过得很昏，大概是因为工作上的问题，焦虑到不停刷网页，到了第三天也就是周五，稍微振作了一点，便准备实施很久以来的想法，去舒家湾天主堂看看。&lt;/p&gt;</summary>
+    <summary type="html">&lt;font size=3&gt;
+今年五一假期没有没有回老家，假期前两日过得很昏，大概是因为工作上的问题，焦虑到不停刷网页，到了第三天也就是周五，稍微振作了一点，便准备实施很久以来的想法，去舒家湾天主堂看看。</summary>
     
     
     
