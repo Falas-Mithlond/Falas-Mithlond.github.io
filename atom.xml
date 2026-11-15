@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2026-11-08T11:44:21.905Z</updated>
+  <updated>2026-11-15T13:32:54.004Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>语言风格与技术表达</title>
+    <link href="http://example.com/2026/11/14/archaism/"/>
+    <id>http://example.com/2026/11/14/archaism/</id>
+    <published>2026-11-14T02:45:24.711Z</published>
+    <updated>2026-11-15T13:32:54.004Z</updated>
+    
+    
+    <summary type="html">&lt;font size=3&gt;
+信件前景提要：
+
+&lt;p&gt;1954年12月，Hugh Brogan 写信给托尔金，批评《双塔》部分章节的拟古风格，尤其是金殿之王一章。他将这种风格称为‘矫揉造作的(Ossianic)’，并表示自己赞同某位评论家对这种风格的描述，即“伪古风”。当时托尔金没有立即回应，但布罗根1955年9月18日再次写信，并为自己前一封信表现出的“无礼、愚蠢或奉承巴结”表示歉意。于是，托尔金开始起草下面这封信。最终并没有寄出这封信，而是寄了一张简短的便条，表示关于语言拟古的问题如要在一封信里讨论会耗费过大的篇幅，得等他们下次见面时再谈。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="翻译集" scheme="http://example.com/categories/%E7%BF%BB%E8%AF%91%E9%9B%86/"/>
+    
+    
+    <category term="Tolkien" scheme="http://example.com/tags/Tolkien/"/>
+    
+    <category term="翻译" scheme="http://example.com/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="评论" scheme="http://example.com/tags/%E8%AF%84%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>托尔金与西班牙内战</title>
     <link href="http://example.com/2026/11/06/tolkienandspanishcivilwar/"/>
     <id>http://example.com/2026/11/06/tolkienandspanishcivilwar/</id>
     <published>2026-11-06T11:17:39.463Z</published>
-    <updated>2026-11-08T11:44:21.905Z</updated>
+    <updated>2026-11-12T14:08:24.811Z</updated>
     
     
     <summary type="html">&lt;font size=3&gt;
